@@ -1,0 +1,1068 @@
+Alcoholic, Absinthe, 348
+Alcoholic, Advocaat, 283
+Alcoholic, Amaretto, 310
+Alcoholic, Applejack, 233
+Alcoholic, Asti, 138
+Alcoholic, Baileys, 327
+Alcoholic, Bailey’s irish cream, 327
+Alcoholic, Beer, 43
+Alcoholic, Bluecuracao, 243
+Alcoholic, Bourbon, 233
+Alcoholic, Brandy, 213
+Alcoholic, Canadian Whiskey, 216
+Alcoholic, Chambord, 348
+Alcoholic, Champagne, 75
+Alcoholic, Cider, 49
+Alcoholic, Cognac, 235
+Alcoholic, Cointreau, 320
+Alcoholic, Drambuie, 358
+Alcoholic, Frangelico, 238
+Alcoholic, Gin, 263
+Alcoholic, Glenfiddich, 230
+Alcoholic, Grandmarnier, 253
+Alcoholic, Irish whiskey, 233
+Alcoholic, Jack daniel’s, 146
+Alcoholic, Jagermeister, 250
+Alcoholic, Jimbeam, 222
+Alcoholic, Kahlua, 180
+Alcoholic, Liqueur, 250
+Alcoholic, Liquor, 250
+Alcoholic, Midori, 267
+Alcoholic, Prosecco, 66
+Alcoholic, Punch, 62
+Alcoholic, Red wine, 85
+Alcoholic, Rose wine, 71
+Alcoholic, Rum, 231
+Alcoholic, Sambuca, 333
+Alcoholic, Sangria, 96
+Alcoholic, Scotch, 222
+Alcoholic, Sherry, 116
+Alcoholic, Sloegin, 332
+Alcoholic, Southern comfort, 247
+Alcoholic, Tequila, 110
+Alcoholic, Triplesec, 153
+Alcoholic, Vermouth, 130
+Alcoholic, Vodka, 231
+Alcoholic, Whisky, 250
+Alcoholic, White wine, 82
+Alcoholic, Wine, 83
+Alcoholic, Wiskey, 220
+Bakery, Apple Pie, 237
+Bakery, Apple Turnover, 348
+Bakery, Bagel, 257
+Bakery, Baguette, 274
+Bakery, Banana Bread, 326
+Bakery, Banana Nut Bread, 326
+Bakery, Beer Bread, 227
+Bakery, Biscuit, 269
+Bakery, Black Bread, 250
+Bakery, Bran Muffins, 270
+Bakery, Bread Pudding, 153
+Bakery, Breadsticks, 400
+Bakery, Brioche, 346
+Bakery, Brown Bread, 246
+Bakery, Brownies, 405
+Bakery, Bun, 316
+Bakery, Cannoli, 254
+Bakery, Caramel Cake, 385
+Bakery, Challah, 283
+Bakery, Chapati, 240
+Bakery, Ciabatta, 271
+Bakery, Cinnamon Bun, 436
+Bakery, Coffee Cake, 418
+Bakery, Conchas/Mexican Sweet Bread, 353
+Bakery, Cornbread, 179
+Bakery, Crepes, 224
+Bakery, Croissant, 406
+Bakery, Crumpet, 178
+Bakery, Cupcakes, 305
+Bakery, Donut/Doughnut, 421
+Bakery, Dosa, 209
+Bakery, Empanada, 335
+Bakery, English Muffin, 227
+Bakery, Flatbread, 311
+Bakery, Focaccia, 249
+Bakery, Garlic Bread, 350
+Bakery, Hot Dog Buns, 279
+Bakery, Italian Bread, 271
+Bakery, Latkes, 189
+Bakery, Matzo Bread, 351
+Bakery, Monkey Bread, 290
+Bakery, Muffin, 296
+Bakery, Multi-Grain Bread, 265
+Bakery, Naan, 275
+Bakery, Oatmeal Cookies, 450
+Bakery, Oatmeal Raisin Cookies, 435
+Bakery, Pan de Sal, 293
+Bakery, Pancake, 233
+Bakery, Pandesal, 293
+Bakery, Panettone, 318
+Bakery, Pide, 268
+Bakery, Pie, 237
+Bakery, Pita Bread, 275
+Bakery, Potato Bread, 266
+Bakery, Pretzel Roll, 338
+Bakery, Pretzel, 38
+Bakery, Puff Pastry, 558
+Bakery, Pumpernickel, 250
+Bakery, Raisin Bread, 274
+Bakery, Roll, 316
+Bakery, Roti, 264
+Bakery, Rye Bread, 259
+Bakery, Sandwich Bread, 251
+Bakery, Sandwich, 304
+Bakery, Scone, 362
+Bakery, Shortcrust Pastry, 544
+Bakery, Soda Bread, 290
+Bakery, Soufflé, 204
+Bakery, Sourdough Bread, 289
+Bakery, Spanakopita, 246
+Bakery, Spice Cake, 332
+Bakery, Sweet Rolls, 333
+Bakery, Swiss Roll, 313
+Bakery, Toast, 261
+Bakery, Tortilla Bread, 265
+Bakery, Tortilla, 297
+Bakery, White Bread, 238
+Bakery, Whole Wheat Bread, 247
+BakingIngredient, Agar-Agar, 26
+BakingIngredient, Agave Syrup, 310
+BakingIngredient, All Purpose Flour, 364
+BakingIngredient, Almond Extract, 258
+BakingIngredient, Almonds, 529
+BakingIngredient, Apple Pie Filling, 100
+BakingIngredient, Baking Powder, 53
+BakingIngredient, Baking Soda, 0
+BakingIngredient, Bread Flour, 361
+BakingIngredient, Brittle, 592
+BakingIngredient, Brown Sugar, 395
+BakingIngredient, Buttermilk, 62
+BakingIngredient, Butterscotch Chips, 539
+BakingIngredient, Cake Flour, 362
+BakingIngredient, Candied Orange Peel, 97
+BakingIngredient, Cane Sugar, 387
+BakingIngredient, Chocolate Chips, 467
+BakingIngredient, Chocolate Sprinkles, 500
+BakingIngredient, Cocoa Powder, 228
+BakingIngredient, Coconut Flakes, 456
+BakingIngredient, Coconut Milk, 50
+BakingIngredient, Corn Flour, 361
+BakingIngredient, Corn Syrup, 281
+BakingIngredient, Cornmeal, 362
+BakingIngredient, Cornstarch, 381
+BakingIngredient, Couverture, 600
+BakingIngredient, Cream Cheese, 54
+BakingIngredient, Cream of Tartar, 258
+BakingIngredient, Crystallized Ginger, 335
+BakingIngredient, Custard Powder, 337
+BakingIngredient, Dark Rum, 216
+BakingIngredient, Dextrose, 375
+BakingIngredient, Dried Apricots, 241
+BakingIngredient, Dried Cranberries, 308
+BakingIngredient, Dried Figs, 249
+BakingIngredient, Dried Prunes, 107
+BakingIngredient, Duck Egg, 185
+BakingIngredient, Egg Nog, 88
+BakingIngredient, Egg White, 13
+BakingIngredient, Egg Yolk, 322
+BakingIngredient, Egg, 97
+BakingIngredient, Evaporated Milk, 134
+BakingIngredient, Flour, 364
+BakingIngredient, Fructose, 368
+BakingIngredient, Gelatin, 335
+BakingIngredient, Glucose Syrup, 387
+BakingIngredient, Glucose, 286
+BakingIngredient, Granulated Sugar, 387
+BakingIngredient, Ground Cinnamon, 247
+BakingIngredient, Hazelnuts, 628
+BakingIngredient, Heavy Cream, 345
+BakingIngredient, Jaggery, 383
+BakingIngredient, Lemon Pie Filling, 143
+BakingIngredient, Malt Powder, 361
+BakingIngredient, Malted Milk, 405
+BakingIngredient, Maltitol, 210
+BakingIngredient, Maltodextrin, 375
+BakingIngredient, Maltose, 344
+BakingIngredient, Maple Syrup, 270
+BakingIngredient, Molasses, 290
+BakingIngredient, Nonpareils, 475
+BakingIngredient, Peppermint Extract, 0
+BakingIngredient, Poppy Seeds, 525
+BakingIngredient, Powdered Milk, 496
+BakingIngredient, Powdered Sugar, 389
+BakingIngredient, Protein Powder, 411
+BakingIngredient, Raisins, 474
+BakingIngredient, Rice Milk, 49
+BakingIngredient, Rock Sugar, 625
+BakingIngredient, Rolled Oats, 384
+BakingIngredient, Rum, 246
+BakingIngredient, Semolina Flour, 350
+BakingIngredient, Sesame Seeds, 573
+BakingIngredient, Shredded Coconut, 501
+BakingIngredient, Sorbitol, 375
+BakingIngredient, Soy Milk, 41
+BakingIngredient, Soy Protein Powder, 338
+BakingIngredient, Sprinkles, 500
+BakingIngredient, Starch, 381
+BakingIngredient, Strawberry Preserves, 278
+BakingIngredient, Sucrose, 387
+BakingIngredient, Sugar, 405
+BakingIngredient, Sunflower Seeds, 117
+BakingIngredient, Sweetened Condensed Milk, 321
+BakingIngredient, Sweetener, 360
+BakingIngredient, Unsalted Butter, 717
+BakingIngredient, Vanilla Extract, 288
+BakingIngredient, Vanilla Sugar, 357
+BakingIngredient, Vegetable Oil, 884
+BakingIngredient, Vegetable Shortening, 884
+BakingIngredient, Walnuts, 131
+BakingIngredient, Whole Milk, 61
+BakingIngredient, Whole Wheat Flour, 340
+BakingIngredient, Xylitol, 240
+BakingIngredient, Yeast (dry), 325
+Cake, Angel Food Cake, 258
+Cake, Apple Cake, 252
+Cake, Apple Cobbler, 198
+Cake, Apple Crisp, 156
+Cake, Apple Crumble, 156
+Cake, Apple Pie, 237
+Cake, Apple Strudel, 274
+Cake, Apple Turnover, 348
+Cake, Applesauce Cake, 358
+Cake, Baked Alaska, 247
+Cake, Bakewell Tart, 430
+Cake, Banoffee Pie, 395
+Cake, Birthday Cake, 465
+Cake, Black Forest Cake, 264
+Cake, Black and White Cookie, 381
+Cake, Blueberry Cobbler, 234
+Cake, Blueberry Muffin, 377
+Cake, Blueberry Pie, 232
+Cake, Bundt Cake, 370
+Cake, Buttermilk Pie, 380
+Cake, Caramel Cake, 475
+Cake, Carrot Cake, 408
+Cake, Cheesecake, 321
+Cake, Cherry Pie, 260
+Cake, Chess Pie, 411
+Cake, Chocolate Cake, 389
+Cake, Chocolate Cream Pie, 304
+Cake, Chocolate Mousse Cake, 260
+Cake, Chocolate Mousse Pie, 260
+Cake, Chocolate Muffin, 420
+Cake, Coconut Cake, 356
+Cake, Coffee Cake, 331
+Cake, Cream Puff, 334
+Cake, Crumb Cake, 441
+Cake, Cupcake, 305
+Cake, Danish Pastry, 374
+Cake, Donut, 403
+Cake, Doughnut, 403
+Cake, Flan, 145
+Cake, Flourless Chocolate Cake, 509
+Cake, French Cruller, 412
+Cake, Fruit Cake, 324
+Cake, Funnel Cake, 307
+Cake, German Chocolate Cake, 370
+Cake, Gingerbread, 356
+Cake, Ice Cream Cake, 200
+Cake, Key Lime Pie, 359
+Cake, King Cake, 377
+Cake, Layer Cake, 402
+Cake, Lemon Cake, 352
+Cake, Lemon Meringue Pie, 268
+Cake, Madeira Cake, 394
+Cake, Marble Cake, 339
+Cake, Meringue, 285
+Cake, Opera Cake, 320
+Cake, Paczki, 336
+Cake, Pancake, 227
+Cake, Panettone, 360
+Cake, Pavlova, 294
+Cake, Peach Cobbler, 65
+Cake, Peach Pie, 223
+Cake, Pecan Pie, 407
+Cake, Pineapple Upside-Down Cake, 319
+Cake, Plum Cake, 109
+Cake, Poppy-Seed Cake, 394
+Cake, Pound Cake, 390
+Cake, Profiterole, 334
+Cake, Puff Pastry, 558
+Cake, Pumpkin Bread, 298
+Cake, Pumpkin Cheesecake, 340
+Cake, Pumpkin Pie, 243
+Cake, Raspberry Pie, 240
+Cake, Red Velvet Cake, 367
+Cake, Rhubarb Pie, 245
+Cake, Rum Cake, 351
+Cake, Sacher Torte, 352
+Cake, Sponge Cake, 289
+Cake, Strawberry Cheesecake, 327
+Cake, Strawberry Pie, 230
+Cake, Strawberry Rhubarb Pie, 281
+Cake, Sweet Potato Pie, 260
+Cake, Swiss Roll, 439
+Cake, Tarte Tatin, 210
+Cake, Tiramisu Cake, 291
+Cake, Tiramisu, 283
+Cake, Treacle Tart, 369
+Cake, Tres Leches Cake, 246
+Cake, Trifle, 180
+Cake, Victoria Sponge Cake, 257
+Cake, Waffles, 312
+Cake, Wedding Cake, 381
+Cereal, Amaranth, 371
+Cereal, Barley Groat, 100
+Cereal, Barley, 354
+Cereal, Brown Rice, 388
+Cereal, Buckwheat Groat, 346
+Cereal, Buckwheat, 343
+Cereal, Corn Waffle, 274
+Cereal, Cornmeal, 362
+Cereal, Cornstarch, 381
+Cereal, Couscous, 376
+Cereal, Cracker, 502
+Cereal, Durum Wheat Semolina, 397
+Cereal, Flaxseed, 534
+Cereal, Freekeh, 520
+Cereal, Gluten, 370
+Cereal, Grissini, 408
+Cereal, Kamut, 337
+Cereal, Millet Flour, 372
+Cereal, Millet Gruel, 46
+Cereal, Millet, 378
+Cereal, Oat Bran, 246
+Cereal, Pearl Barley, 352
+Cereal, Polenta, 366
+Cereal, Prawn Cracker, 527
+Cereal, Pretzel Stick, 380
+Cereal, Quinoa, 368
+Cereal, Rusk, 410
+Cereal, Rye Bran, 281
+Cereal, Sago, 354
+Cereal, Savoury Biscuit, 347
+Cereal, Shortbread, 502
+Cereal, Spelt Bran, 177
+Cereal, Spelt Semolina, 360
+Cereal, Spelt, 338
+Cereal, Sunflower Seed, 584
+Cereal, Tortilla Chip, 499
+Cereal, Tortilla, 237
+Cereal, Wheat Bran, 216
+Cereal, Wheat Germ, 382
+Cereal, Wheat Gluten, 325
+Cereal, Wheat Semolina, 360
+Cereal, Wheat Starch, 351
+Cereal, Whole Grain Wheat, 339
+Cereal, Wholegrain Oat, 375
+Cheez, American Cheese, 148
+Cheez, Applewood, 410
+Cheez, Asiago Cheese, 392
+Cheez, Babybel, 333
+Cheez, Blue Cheese, 353
+Cheez, Brie, 334
+Cheez, Camembert, 300
+Cheez, Cheddar, 403
+Cheez, Cheese Fondue, 228
+Cheez, Cheese Spread, 290
+Cheez, Cheese Whiz, 276
+Cheez, Chester, 387
+Cheez, Colby Cheese, 394
+Cheez, Colby-Jack Cheese, 394
+Cheez, Cottage Cheese, 98
+Cheez, Dutch Cheese, 393
+Cheez, Edam Cheese, 357
+Cheez, Emmentaler, 357
+Cheez, Feta, 264
+Cheez, Fontina, 389
+Cheez, Fresh Mozzarella, 280
+Cheez, Gjetost, 466
+Cheez, Goat Cheese, 364
+Cheez, Gorgonzola, 350
+Cheez, Gouda, 356
+Cheez, Grated Parmesan, 431
+Cheez, Grilled Cheese, 350
+Cheez, Gruyere, 413
+Cheez, Halloumi, 321
+Cheez, Havarti, 371
+Cheez, Italian Cheese, 397
+Cheez, Jarlsberg, 352
+Cheez, Maasdam Cheese, 344
+Cheez, Manchego Cheese, 320
+Cheez, Monterey Jack Cheese, 373
+Cheez, Monterey, 373
+Cheez, Mozzarella, 280
+Cheez, Muenster Cheese, 368
+Cheez, Neufchatel, 253
+Cheez, Parmesan, 431
+Cheez, Pecorino, 387
+Cheez, Provolone, 351
+Cheez, Raclette Cheese, 357
+Cheez, Ricotta, 174
+Cheez, Romano, 387
+Cheez, Roquefort, 369
+Cheez, Sheep Cheese, 364
+Cheez, Soft Cheese, 268
+Cheez, Stilton Cheese, 393
+Cheez, String Cheese, 250
+Cheez, Swiss Cheese, 380
+Cheez, White Cheddar, 403
+Cheez, Wisconsin Cheese, 389
+Dairy, Almond Milk, 17
+Dairy, Buttermilk, 62
+Dairy, Chocolate Mousse, 225
+Dairy, Coconut Milk, 230
+Dairy, Coffee Creamer, 195
+Dairy, Condensed Milk, 321
+Dairy, Cottage Cheese, 98
+Dairy, Cream, 242
+Dairy, Creme Fraiche, 393
+Dairy, Curd, 98
+Dairy, Custard, 122
+Dairy, Evaporated Milk, 135
+Dairy, Goat Milk, 69
+Dairy, Hot Chocolate, 89
+Dairy, Kefir, 55
+Dairy, Lactose-free Milk, 52
+Dairy, Lassi, 75
+Dairy, Milk, 61
+Dairy, Plain Yogurt, 61
+Dairy, Powdered Milk, 496
+Dairy, Quark, 145
+Dairy, Rice Milk, 49
+Dairy, Rice Pudding, 118
+Dairy, Semi-skimmed Milk, 50
+Dairy, Semolina Pudding, 67
+Dairy, Skim Milk, 35
+Dairy, Sour Cream, 181
+Dairy, Soy Milk, 45
+Dairy, Sweetened Condensed Milk, 321
+Dairy, Tzatziki, 117
+Dairy, Whipped Cream, 257
+Dairy, Whole Milk, 61
+Dairy, Yogurt, 61
+Fish, Anchovy, 131
+Fish, Bluefish, 159
+Fish, Bream, 135
+Fish, Butterfish, 187
+Fish, Calamari, 175
+Fish, Carp, 162
+Fish, Caviar, 264
+Fish, Clam, 148
+Fish, Cod, 105
+Fish, Crawfish, 82
+Fish, Crayfish, 87
+Fish, Eel, 236
+Fish, Fish Finger, 290
+Fish, Fish Stick, 290
+Fish, Flounder, 86
+Fish, Grouper, 118
+Fish, Haddock, 90
+Fish, Hake, 71
+Fish, Halibut, 111
+Fish, Herring, 203
+Fish, Hoki, 121
+Fish, Kipper, 217
+Fish, Ling, 109
+Fish, Lobster, 89
+Fish, Mackerel, 262
+Fish, Milkfish, 190
+Fish, Monkfish, 97
+Fish, Mullet , 150
+Fish, Mussel, 172
+Fish, Octopus, 164
+Fish, Pickerel, 111
+Fish, Pickled Herring, 262
+Fish, Pike, 113
+Fish, Plaice, 91
+Fish, Pollack, 111
+Fish, Red Snapper, 128
+Fish, Redfish, 94
+Fish, Rollmop, 171
+Fish, Salmon, 206
+Fish, Sardine, 208
+Fish, Scallop, 111
+Fish, Scampi, 84
+Fish, Sea Bass, 124
+Fish, Shad, 252
+Fish, Shark, 130
+Fish, Smelt, 124
+Fish, Sole, 86
+Fish, Squid, 92
+Fish, Sturgeon, 135
+Fish, Sushi, 150
+Fish, Swordfish, 172
+Fish, Triggerfish, 93
+Fish, Trout, 190
+Fish, Tuna Salad, 187
+Fish, Tuna, 132
+Fish, Turbot, 122
+Fish, Wahoo, 167
+Fish, Whitefish, 172
+Fish, Whiting, 116
+Fish, Zander, 84
+Fruit, Acai, 70
+Fruit, Apple sauce, 68
+Fruit, Apple, 50
+Fruit, Apricot, 48
+Fruit, Avocado, 160
+Fruit, Banana, 85
+Fruit, Black berrie, 29
+Fruit, Blood orange, 50
+Fruit, Blue berrie, 42
+Fruit, Cantaloupe, 34
+Fruit, Cherrie, 51
+Fruit, Clementine, 47
+Fruit, Cranberrie, 46
+Fruit, Currant, 56
+Fruit, Custard apple, 101
+Fruit, Date, 270
+Fruit, Fig, 74
+Fruit, Fruit salad, 50
+Fruit, Grape, 69
+Fruit, Green gage, 41
+Fruit, Grepe fruit, 40
+Fruit, Guava, 68
+Fruit, Honeydew, 36
+Fruit, Jackfruit, 95
+Fruit, Jujube, 79
+Fruit, Kiwi, 60
+Fruit, Lemon, 33
+Fruit, Lime, 34
+Fruit, Lychee, 66
+Fruit, Mandarin, 37
+Fruit, Mango, 60
+Fruit, Medjooldate, 270
+Fruit, Melon, 37
+Fruit, Minneola, 64
+Fruit, Mulberrie, 43
+Fruit, Nectarine, 33
+Fruit, Oive, 115
+Fruit, Orange, 40
+Fruit, Papaya, 43
+Fruit, Passion fruit, 97
+Fruit, Peach, 30
+Fruit, Pear, 38
+Fruit, Persimmon, 127
+Fruit, Physalis, 49
+Fruit, Pineapple, 55
+Fruit, Plantain, 122
+Fruit, Plum, 46
+Fruit, Pomegrade, 80
+Fruit, Quince, 57
+Fruit, Raisin, 299
+Fruit, Rambutan, 82
+Fruit, Raspberrie, 52
+Fruit, Rhubarb, 21
+Fruit, Starfruit, 31
+Fruit, Strawberrie, 34
+Fruit, Tamarind, 239
+Fruit, Tangerine, 53
+Fruit, Watermelon, 30
+GameMeat, Alligator, 232
+GameMeat, Antelope Meat, 150
+GameMeat, Bear Meat, 259
+GameMeat, Beaver Meat, 212
+GameMeat, Bison Sirloin, 171
+GameMeat, Bison, 171
+GameMeat, Buffalo, 131
+GameMeat, Caribou, 159
+GameMeat, Goose, 238
+GameMeat, Lamb, 202
+GameMeat, Mallard Duck Meat, 211
+GameMeat, Moose, 134
+GameMeat, Mutton, 234
+GameMeat, Ostrich, 175
+GameMeat, Pheasant, 239
+GameMeat, Rabbit, 197
+GameMeat, Racoon, 255
+GameMeat, Reindeer, 200
+GameMeat, Squirrel, 173
+GameMeat, Venison, 164
+GameMeat, Wild Boar, 160
+Juice, Acai Juice, 58
+Juice, Aloe Vera, 44
+Juice, Apple Juice, 46
+Juice, Apricot Nectar, 56
+Juice, Banana Juice, 50
+Juice, Blackberry Juice, 48
+Juice, Boysenberry Juice, 54
+Juice, Capri-Sun, 41
+Juice, Carrot Juice, 40
+Juice, Chamomile Tea, 0
+Juice, Cherry Juice, 45
+Juice, Clamato, 60
+Juice, Coconut Milk, 233
+Juice, Coconut Water, 19
+Juice, Concord Grape, 71
+Juice, Cranberry Apple Juice, 67
+Juice, Cranberry Grape Juice, 71
+Juice, Cranberry Juice, 46
+Juice, Cucumber Juice, 10
+Juice, Currant Juice, 48
+Juice, Energy-Drink, 87
+Juice, Fruitopia, 110
+Juice, Grape Juice, 60
+Juice, Grapefruit Juice, 46
+Juice, Lemon Juice, 21
+Juice, Lemonade, 50
+Juice, Lime Juice, 21
+Juice, Limeade, 123
+Juice, Mango Lassi, 66
+Juice, Nestea, 21
+Juice, Orange Juice, 46
+Juice, Papaya Juice, 58
+Juice, Passion Fruit Juice, 48
+Juice, Peach Juice, 54
+Juice, Peach Nectar, 54
+Juice, Pear Juice, 60
+Juice, Pear Nectar, 60
+Juice, Pineapple Juice, 53
+Juice, Pineapple Orange Juice, 50
+Juice, Plum Juice, 71
+Juice, Pomegranate Juice, 66
+Juice, Sauerkraut Juice, 14
+Juice, Tangerine Juice, 43
+Juice, Tomato Juice, 17
+Juice, Vegetable Juice, 21
+Juice, White Grape Juice, 75
+Meat, Alligator, 232
+Meat, Beef Brisket, 242
+Meat, Beef Jerky, 410
+Meat, Beef Rib, 238
+Meat, Beef Tenderloin, 218
+Meat, Beef, 248
+Meat, Chicken Breast, 172
+Meat, Chicken Drumstick, 185
+Meat, Chicken Fat, 898
+Meat, Chicken Giblet, 158
+Meat, Chicken Gizzards, 146
+Meat, Chicken Leg, 174
+Meat, Chicken Liver, 167
+Meat, Chicken Meat, 172
+Meat, Chicken Thigh, 229
+Meat, Chicken Wing, 266
+Meat, Chicken, 219
+Meat, Chuck Steak, 277
+Meat, Cubed Steak, 199
+Meat, Duck, 337
+Meat, Filet Mignon, 267
+Meat, Flank Steak, 194
+Meat, Flat Iron Steak, 137
+Meat, Ground Beef, 246
+Meat, Ground Round, 246
+Meat, Ham, 163
+Meat, New York Strip Steak, 199
+Meat, Ostrich, 145
+Meat, Pork Baby Back Rib, 212
+Meat, Pork Chop, 196
+Meat, Pork Country Style Rib, 247
+Meat, Pork Loin, 204
+Meat, Pork Roast, 254
+Meat, Pork Steak, 196
+Meat, Pork, 196
+Meat, Roast Beef, 140
+Meat, Round Steak, 182
+Meat, Schnitzel, 156
+Meat, Spare Rib, 238
+Meat, Standing Rib Roast, 333
+Meat, T-Bone Steak, 202
+Meat, Turkey Breast, 135
+Meat, Turkey Leg, 208
+Meat, Turkey Steak, 189
+Meat, Turkey Wing, 221
+Meat, Turkey, 189
+Nut, Acorn, 387
+Nut, Alfalfa Sprout, 23
+Nut, Almonds, 575
+Nut, Beechnut, 576
+Nut, Brazil Nut, 656
+Nut, Breadfruit, 191
+Nut, Butternut, 612
+Nut, Cashew, 553
+Nut, Chestnut, 213
+Nut, Chia Seeds, 486
+Nut, Coconut, 354
+Nut, Cotton Seeds, 506
+Nut, Flaxseed, 534
+Nut, Ginkgo Nut, 182
+Nut, Goa Bean, 409
+Nut, Hazelnut, 628
+Nut, Hickory Nut, 657
+Nut, Lima Bean, 71
+Nut, Lotus Seed, 89
+Nut, Macadamia Nut, 718
+Nut, Pea, 81
+Nut, Peanut, 567
+Nut, Pecan Nut, 691
+Nut, Pecan, 691
+Nut, Pili Nut, 719
+Nut, Pine Nut, 673
+Nut, Pinto Bean, 347
+Nut, Pistachio, 562
+Nut, Poppy Seeds, 525
+Nut, Pumpkin Seeds, 559
+Nut, Radish Seeds, 43
+Nut, Safflower Seeds, 517
+Nut, Sesame Seeds, 573
+Nut, Smoked Almond, 575
+Nut, Soy Beans, 147
+Nut, Sunflower Seeds, 584
+Nut, Sweet Chestnut, 194
+Nut, Walnut, 654
+Nut, Watermelon Seeds, 30
+Oil&Fat, Almond Oil, 882
+Oil&Fat, Avocado Oil, 857
+Oil&Fat, Butter, 720
+Oil&Fat, Canola Oil, 884
+Oil&Fat, Coconut Oil, 857
+Oil&Fat, Cod Liver Oil, 1000
+Oil&Fat, Corn Oil, 800
+Oil&Fat, Cottonseed Oil, 882
+Oil&Fat, Flaxseed Oil, 884
+Oil&Fat, Ghee, 120
+Oil&Fat, Goose Fat, 898
+Oil&Fat, Grape Seed Oil, 884
+Oil&Fat, Hemp Oil, 807
+Oil&Fat, Herring Oil, 902
+Oil&Fat, Lard, 902
+Oil&Fat, Macadamia Oil, 819
+Oil&Fat, Margarine, 717
+Oil&Fat, Mustard Oil, 884
+Oil&Fat, Olive Oil, 884
+Oil&Fat, Palm Oil, 882
+Oil&Fat, Peanut Oil, 857
+Oil&Fat, Real Butter, 720
+Oil&Fat, Rice Bran Oil, 889
+Oil&Fat, Safflower Oil, 857
+Oil&Fat, Sardine Oil, 902
+Oil&Fat, Sesame Oil, 884
+Oil&Fat, Soybean Oil, 889
+Oil&Fat, Sunflower Oil, 884
+Oil&Fat, Walnut Oil, 889
+Pasta, Cannelloni, 146
+Pasta, Capellini, 353
+Pasta, Cappelletti, 164
+Pasta, Cellophane Noodles, 351
+Pasta, Cheese Tortellini, 291
+Pasta, Dampfnudel, 274
+Pasta, Dumpling Dough, 99
+Pasta, Durum Wheat Semolina, 397
+Pasta, Egg Noodles, 384
+Pasta, Farfalle, 358
+Pasta, Fettuccine, 353
+Pasta, Fusilli, 352
+Pasta, Glass Noodles, 192
+Pasta, Lasagne Sheets, 271
+Pasta, Linguine, 357
+Pasta, Low Carb Pasta, 282
+Pasta, Macaroni, 370
+Pasta, Manicotti, 357
+Pasta, Mostaccioli, 184
+Pasta, Orecchiette, 370
+Pasta, Orzo, 357
+Pasta, Penne Rigate, 370
+Pasta, Penne, 351
+Pasta, Pierogi, 200
+Pasta, Ravioli, 77
+Pasta, Rigatoni, 353
+Pasta, Rotini, 353
+Pasta, Shells, 353
+Pasta, Shirataki Noodles, 18
+Pasta, Soy Noodles, 216
+Pasta, Spaetzle, 368
+Pasta, Spaghetti, 370
+Pasta, Spinach Tortellini, 314
+Pasta, Spirelli, 367
+Pasta, Tagliatelle, 370
+Pasta, Tortellini, 291
+Pasta, Vermicelli, 368
+Pasta, Whole Grain Noodles, 347
+Pasta, Whole Grain Spaghetti, 351
+Pasta, Ziti, 352
+ProcessedMeat, Andouille, 232
+ProcessedMeat, Bacon, 407
+ProcessedMeat, Black Pudding, 379
+ProcessedMeat, Blood Sausage, 379
+ProcessedMeat, Bockwurst, 301
+ProcessedMeat, Boiled Ham, 104
+ProcessedMeat, Bologna, 47
+ProcessedMeat, Boudin, 194
+ProcessedMeat, Bratwurst, 297
+ProcessedMeat, Brawn, 157
+ProcessedMeat, Breakfast Sausage Links, 339
+ProcessedMeat, Cheese Pastry, 374
+ProcessedMeat, Chicken Breast, 79
+ProcessedMeat, Chicken Meat, 79
+ProcessedMeat, Chicken Salad, 81
+ProcessedMeat, Chorizo, 455
+ProcessedMeat, Cooked Ham, 133
+ProcessedMeat, Corned Beef, 153
+ProcessedMeat, Cumberland Sausage, 250
+ProcessedMeat, Frankfurters, 305
+ProcessedMeat, Garlic Sausage, 169
+ProcessedMeat, Hot Dogs, 278
+ProcessedMeat, Hot Sausage, 259
+ProcessedMeat, Italian Sausage, 149
+ProcessedMeat, Jerky, 410
+ProcessedMeat, Kielbasa, 309
+ProcessedMeat, Knackwurst, 307
+ProcessedMeat, Landjaeger, 352
+ProcessedMeat, Linguica, 282
+ProcessedMeat, Liver Pate, 319
+ProcessedMeat, Liverwurst, 326
+ProcessedMeat, Luncheon Meat, 117
+ProcessedMeat, Mettwurst, 310
+ProcessedMeat, Mortadella, 311
+ProcessedMeat, Pastrami, 133
+ProcessedMeat, Pepperoni, 494
+ProcessedMeat, Polish Sausage, 301
+ProcessedMeat, Pork Roll, 302
+ProcessedMeat, Pork, 247
+ProcessedMeat, Prosciutto, 195
+ProcessedMeat, Ring Bologna, 286
+ProcessedMeat, Salami, 336
+ProcessedMeat, Sausage, 230
+ProcessedMeat, Smoked Sausage, 301
+ProcessedMeat, Souse, 157
+ProcessedMeat, Spam, 315
+ProcessedMeat, Weisswurst, 313
+Sauce, 1000 Island Dressing, 370
+Sauce, Ajvar, 18
+Sauce, Arrabiata Sauce, 36
+Sauce, Balsamic Vinaigrette Dressing, 290
+Sauce, Barbecue Sauce, 150
+Sauce, Bechamel Sauce, 225
+Sauce, Bernaise Sauce, 414
+Sauce, Blue Cheese Dressing, 533
+Sauce, Bolognese, 106
+Sauce, Buttermilk Ranch Dressing, 533
+Sauce, Caesar Dressing, 429
+Sauce, Catalina Dressing, 282
+Sauce, Chasseur Sauce, 45
+Sauce, Chili Sauce, 112
+Sauce, Cream Sauce, 180
+Sauce, Curry Ketchup, 124
+Sauce, Curry Sauce, 26
+Sauce, French Dressing, 60
+Sauce, Gravy, 53
+Sauce, Greek Dressing, 467
+Sauce, Hamburger Sauce, 383
+Sauce, Harissa, 52
+Sauce, Hollandaise Sauce, 535
+Sauce, Honey Mustard Dressing, 464
+Sauce, Horseradish, 48
+Sauce, Italian Dressing, 293
+Sauce, Ketchup, 100
+Sauce, Mayonnaise, 692
+Sauce, Mustard Sauce, 645
+Sauce, Mustard, 60
+Sauce, Orange Sauce, 179
+Sauce, Pesto, 458
+Sauce, Ranch Dressing, 510
+Sauce, Remoulade Sauce, 635
+Sauce, Russian Dressing, 400
+Sauce, Salad Dressing, 449
+Sauce, Sambal Oelek, 21
+Sauce, Sesame Ginger Dressing, 464
+Sauce, Sesame Paste, 595
+Sauce, Sour Cream Sauce, 60
+Sauce, Sour Cream, 217
+Sauce, Soy Sauce, 67
+Sauce, Sweet and Sour Sauce, 179
+Sauce, Tabasco, 70
+Sauce, Teriyaki Sauce, 89
+Sauce, Thai Curry Paste, 155
+Sauce, Tomato Paste, 82
+Sauce, Tomato Puree, 38
+Sauce, Tomato Sauce, 24
+Sauce, Tzatziki, 94
+Sauce, Vinaigrette, 120
+Sauce, Worcestershire Sauce, 78
+Sauce, Yogurt Dressing, 45
+Sauce, Zesty Italian Dressing, 267
+Spice, Almond Extract, 374
+Spice, Anise Seed, 337
+Spice, Anise, 337
+Spice, Arrowroot, 65
+Spice, Arugula, 25
+Spice, Balsamic Vinegar, 88
+Spice, Basil, 233
+Spice, Black Pepper, 251
+Spice, Black Sesame Seed, 573
+Spice, Broth, 100
+Spice, Caper, 23
+Spice, Caraway Seed, 333
+Spice, Cardamom, 311
+Spice, Cassava, 160
+Spice, Cayenne Pepper, 318
+Spice, Chard, 19
+Spice, Chicory Greens, 23
+Spice, Chicory Root, 72
+Spice, Chili Powder, 282
+Spice, Chili, 282
+Spice, Chives, 30
+Spice, Cider Vinegar, 21
+Spice, Cilantro, 23
+Spice, Cinnamon, 247
+Spice, Clove, 274
+Spice, Coriander, 23
+Spice, Cream of Tartar, 258
+Spice, Cress, 32
+Spice, Crystallized Ginger, 335
+Spice, Cumin Seed, 375
+Spice, Cumin, 375
+Spice, Curry, 325
+Spice, Dandelion, 45
+Spice, Dill Weed, 43
+Spice, Dill, 43
+Spice, Fennel Seed, 345
+Spice, Fennel, 31
+Spice, Fenugreek, 323
+Spice, Garlic Powder, 331
+Spice, Garlic Salt, 0
+Spice, Garlic, 149
+Spice, Ginger, 80
+Spice, Grape Leave, 93
+Spice, Ground Ginger, 335
+Spice, Horseradish, 48
+Spice, Hot Pepper, 318
+Spice, Iodized Salt, 0
+Spice, Jalapeno, 13
+Spice, Juniper, 45
+Spice, Lemon Grass, 99
+Spice, Licorice, 375
+Spice, Maggi, 104
+Spice, Marjoram, 271
+Spice, Minced Onion, 40
+Spice, Mint, 70
+Spice, Mustard Seed, 508
+Spice, Nutmeg, 525
+Spice, Okra, 33
+Spice, Onion Powder, 341
+Spice, Onion, 40
+Spice, Orange Peel, 97
+Spice, Oregano, 265
+Spice, Paprika, 282
+Spice, Parsley, 36
+Spice, Parsnip, 75
+Spice, Pepper, 251
+Spice, Poppy Seed, 525
+Spice, Poultry Seasoning, 307
+Spice, Pumpkin Pie Spice, 342
+Spice, Red Pepper, 251
+Spice, Red Wine Vinegar, 19
+Spice, Rosemary, 131
+Spice, Saffron, 310
+Spice, Sage, 315
+Spice, Salt, 0
+Spice, Savory, 272
+Spice, Sea Salt, 0
+Spice, Serrano Pepper, 32
+Spice, Sesame Seeds, 573
+Spice, Stevia, 0
+Spice, Tamarind, 239
+Spice, Tarragon, 295
+Spice, Thyme, 276
+Spice, Turmeric, 354
+Spice, Vanilla Bean, 250
+Spice, Vanilla Extract, 288
+Spice, Vinegar, 18
+Spice, White Pepper, 296
+Spice, Yam, 118
+Vegetable, Artichoke, 47
+Vegetable, Arugula, 25
+Vegetable, Asparagus, 20
+Vegetable, Aubergine, 25
+Vegetable, Bean, 31
+Vegetable, Beetroot, 43
+Vegetable, Bell pepper, 20
+Vegetable, Black olive, 115
+Vegetable, Broccoli, 34
+Vegetable, Brussels sprouts, 43
+Vegetable, Cabbage, 25
+Vegetable, Capsicum, 27
+Vegetable, Carrot, 41
+Vegetable, Cauliflower, 25
+Vegetable, Celery, 16
+Vegetable, Chard, 19
+Vegetable, Cherry tomato, 100
+Vegetable, Chicory, 72
+Vegetable, Chinese cabbage, 16
+Vegetable, Chive, 30
+Vegetable, Collard, 32
+Vegetable, Collardgreen, 32
+Vegetable, Corn, 365
+Vegetable, Courgette, 17
+Vegetable, Creamed spicach, 74
+Vegetable, Cucumber, 16
+Vegetable, Eggplant, 25
+Vegetable, Endive, 17
+Vegetable, Fennel, 31
+Vegetable, Garlic, 149
+Vegetable, Gherkin, 14
+Vegetable, Gourd, 14
+Vegetable, Gree bean, 31
+Vegetable, Green olive, 115
+Vegetable, Green onion, 32
+Vegetable, Horse radish, 48
+Vegetable, Kale, 49
+Vegetable, Kohlrabi, 27
+Vegetable, Kumara, 86
+Vegetable, Leek, 61
+Vegetable, Lettuce, 15
+Vegetable, Mushroom, 22
+Vegetable, Mustard green, 27
+Vegetable, Nori, 35
+Vegetable, Okra, 33
+Vegetable, Olive, 115
+Vegetable, Onion, 30
+Vegetable, Onion, 40
+Vegetable, Parsnip, 75
+Vegetable, Pea, 81
+Vegetable, Pepper, 27
+Vegetable, Potato, 77
+Vegetable, Radish, 16
+Vegetable, Red cabbage, 31
+Vegetable, Redonion, 30
+Vegetable, Rutabaga, 38
+Vegetable, Shallot, 72
+Vegetable, Spinach, 23
+Vegetable, Squash, 35
+Vegetable, Squash, 45
+Vegetable, Sweet potato, 86
+Vegetable, Tomato, 18
+Vegetable, Turnip green, 20
+Vegetable, Turnip, 28
+Vegetable, Wasabi, 109
+Vegetable, White potato, 77
+Vegetable, Winter squash, 34
+Vegetable, Zucchini, 17
+Yoghurt, Activia Lemon, 100
+Yoghurt, Activia Strawberry, 97
+Yoghurt, Activia, 74
+Yoghurt, Aloe Vera Yogurt, 85
+Yoghurt, Ayran, 42
+Yoghurt, Bircher Muesli Yogurt, 109
+Yoghurt, Blueberry Yogurt, 105
+Yoghurt, Cherry Yogurt, 97
+Yoghurt, Chocolate Yogurt, 128
+Yoghurt, Cream Yogurt, 124
+Yoghurt, Creamy Yogurt, 90
+Yoghurt, Diet Yogurt, 54
+Yoghurt, Fruit Yogurt, 97
+Yoghurt, Greek Yogurt, 53
+Yoghurt, Low-Fat Yogurt, 63
+Yoghurt, Mocca Yogurt, 100
+Yoghurt, Organic Yogurt, 75
+Yoghurt, Peach Yogurt, 97
+Yoghurt, Plain Yogurt, 61
+Yoghurt, Probiotic Yogurt, 80
+Yoghurt, Skim Milk Yogurt, 56
+Yoghurt, Stracciatella Yogurt, 139
+Yoghurt, Strawberry Yogurt, 100
+Yoghurt, Vanilla Yogurt, 101
+Yoghurt, Yogurt Corner, 119
+Yoghurt, Yogurt, 61
+Yoghurt, Yoplait Boston Cream Pie, 90
+Yoghurt, Yoplait any, 100
